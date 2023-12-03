@@ -1,0 +1,6 @@
+{
+    // https://github.com/TypeStrong/ts-node/issues/2076
+    "extends": "./node_modules/@tsconfig/node20/tsconfig.json",
+    "ts-node": {},
+    "compilerOptions": {}
+}
