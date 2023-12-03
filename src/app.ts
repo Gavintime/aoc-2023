@@ -1,3 +1,5 @@
-import { partOne, partTwo } from './dayOne/main'
+// import { partOne, partTwo } from './dayOne/main'
+import { partOne } from './dayTwo/main'
 
-partTwo()
+partOne()
+// partTwo()
