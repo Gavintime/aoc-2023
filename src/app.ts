@@ -1,7 +1,3 @@
-console.log('hello aoc 2023!')
+import { partOne, partTwo } from './dayOne/main'
 
-const addNumber = (a: number, b: number): number => {
-  return a + b
-}
-
-console.log(addNumber(5, 10))
+partTwo()
