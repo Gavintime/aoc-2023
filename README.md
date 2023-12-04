@@ -9,4 +9,5 @@ Finally run: `npm run start`
 ## Completed
 
 Day 1: Part 1 & 2  
-Day 2: Part 1 & 2
+Day 2: Part 1 & 2  
+Day 3: part 1
